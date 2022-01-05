@@ -1,0 +1,9 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/github/howaric/java17/java12/T1_TestJMH.testStringBuffer
+inline,com/github/howaric/java17/java12/T1_TestJMH.testStringBuilder
+inline,com/github/howaric/java17/java12/T1_TestJMH2.testForeach
+inline,com/github/howaric/java17/java12/T1_TestJMH2.testStream

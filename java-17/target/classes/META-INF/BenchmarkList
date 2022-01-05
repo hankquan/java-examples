@@ -1,0 +1,4 @@
+JMH S 43 com.github.howaric.java17.java12.T1_TestJMH S 82 com.github.howaric.java17.java12.jmh_generated.T1_TestJMH_testStringBuffer_jmhTest S 16 testStringBuffer S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 43 com.github.howaric.java17.java12.T1_TestJMH S 83 com.github.howaric.java17.java12.jmh_generated.T1_TestJMH_testStringBuilder_jmhTest S 17 testStringBuilder S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 44 com.github.howaric.java17.java12.T1_TestJMH2 S 78 com.github.howaric.java17.java12.jmh_generated.T1_TestJMH2_testForeach_jmhTest S 11 testForeach S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
+JMH S 44 com.github.howaric.java17.java12.T1_TestJMH2 S 77 com.github.howaric.java17.java12.jmh_generated.T1_TestJMH2_testStream_jmhTest S 10 testStream S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E U 12 MILLISECONDS E E 
